@@ -1,0 +1,52 @@
+[
+  {
+    "data": "אבני איתן",
+    "date": "25.02.2025",
+    "time": "08:40:08",
+    "alertDate": "2025-02-25T08:40:00",
+    "category": 1,
+    "category_desc": "ירי רקטות וטילים",
+    "matrix_id": 1,
+    "rid": 55425
+  },
+  {
+    "data": "רמת מגשימים",
+    "date": "25.02.2025",
+    "time": "08:39:44",
+    "alertDate": "2025-02-25T08:40:00",
+    "category": 2,
+    "category_desc": "חדירת כלי טיס עוין",
+    "matrix_id": 6,
+    "rid": 55424
+  },
+  {
+    "data": "חספין",
+    "date": "25.02.2025",
+    "time": "08:39:44",
+    "alertDate": "2025-02-25T08:40:00",
+    "category": 2,
+    "category_desc": "חדירת כלי טיס עוין",
+    "matrix_id": 6,
+    "rid": 55423
+  },
+  {
+    "data": "יונתן",
+    "date": "25.02.2025",
+    "time": "08:39:12",
+    "alertDate": "2025-02-25T08:39:00",
+    "category": 2,
+    "category_desc": "חדירת כלי טיס עוין",
+    "matrix_id": 6,
+    "rid": 55422
+  },
+  {
+    "data": "נירים",
+    "date": "08.02.2025",
+    "time": "15:53:36",
+    "alertDate": "2025-02-08T15:54:00",
+    "category": 1,
+    "category_desc": "ירי רקטות וטילים",
+    "matrix_id": 1,
+    "rid": 55421
+  }
+]
